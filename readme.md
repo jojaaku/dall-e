@@ -4,7 +4,7 @@
 This is a full-stack MERN AI image generation app that allows users to use AI to generate an image and share it to the community. Users can either enter a prompt or use a randomized prompt to generate an image leveraging the power of OpenAI. Additionally, the application allows users to share the image generated to a shared database and search for images based on the prompts.
 
 ## Table of Contents
-- [Technologies Used](#technologies_used)
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
